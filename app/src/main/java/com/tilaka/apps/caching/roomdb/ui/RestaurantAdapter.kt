@@ -1,4 +1,4 @@
-package com.tilaka.apps.custom.caching.roomdb.ui
+package com.tilaka.apps.caching.roomdb.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -6,8 +6,8 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.tilaka.apps.custom.caching.roomdb.data.RestaurantModel
-import com.tilaka.apps.custom.caching.roomdb.databinding.ItemRestaurantBinding
+import com.tilaka.apps.caching.roomdb.data.RestaurantModel
+import com.tilaka.apps.roomdb.databinding.ItemRestaurantBinding
 
 class RestaurantAdapter :
     ListAdapter<RestaurantModel, RestaurantAdapter.RestaurantViewHolder>(RestaurantComparator()) {

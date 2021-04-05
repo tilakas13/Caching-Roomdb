@@ -1,10 +1,9 @@
-package com.tilaka.apps.custom.caching.roomdb.data
+package com.tilaka.apps.caching.roomdb.data
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.tilaka.apps.custom.caching.roomdb.data.RestaurantModel
 import kotlinx.coroutines.flow.Flow
 
 @Dao

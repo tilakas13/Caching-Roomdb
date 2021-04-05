@@ -1,6 +1,6 @@
-package com.tilaka.apps.custom.caching.roomdb.api
+package com.tilaka.apps.caching.roomdb.api
 
-import com.tilaka.apps.custom.caching.roomdb.data.RestaurantModel
+import com.tilaka.apps.caching.roomdb.data.RestaurantModel
 import retrofit2.http.GET
 
 interface RestaurantApi {

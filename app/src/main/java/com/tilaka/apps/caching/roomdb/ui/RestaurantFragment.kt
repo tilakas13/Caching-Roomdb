@@ -1,4 +1,4 @@
-package com.tilaka.apps.custom.caching.roomdb.ui
+package com.tilaka.apps.caching.roomdb.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,8 +8,9 @@ import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.tilaka.apps.custom.caching.roomdb.databinding.FragmentRestaurantBinding
-import com.tilaka.apps.custom.caching.roomdb.utils.Resource
+import com.tilaka.apps.caching.roomdb.utils.Resource
+import com.tilaka.apps.roomdb.databinding.FragmentRestaurantBinding
+
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

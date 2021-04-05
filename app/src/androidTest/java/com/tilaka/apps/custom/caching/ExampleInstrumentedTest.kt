@@ -1,4 +1,4 @@
-package com.tilaka.apps.custom.caching.roomdb
+package com.tilaka.apps.custom.caching
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.tilaka.apps.custom.caching.roomdb", appContext.packageName)
+        assertEquals("com.tilaka.apps.caching.roomdb", appContext.packageName)
     }
 }

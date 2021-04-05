@@ -1,10 +1,10 @@
-package com.tilaka.apps.custom.caching.roomdb.ui
+package com.tilaka.apps.caching.roomdb.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentTransaction
-import com.tilaka.apps.custom.caching.roomdb.R
+import com.tilaka.apps.roomdb.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

@@ -1,4 +1,4 @@
-package com.tilaka.apps.custom.caching.roomdb.utils
+package com.tilaka.apps.caching.roomdb.utils
 
 sealed class Resource<T>(
     val data: T? = null,

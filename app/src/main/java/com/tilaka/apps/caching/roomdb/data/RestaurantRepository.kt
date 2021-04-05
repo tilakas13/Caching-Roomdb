@@ -1,8 +1,8 @@
-package com.tilaka.apps.custom.caching.roomdb.data
+package com.tilaka.apps.caching.roomdb.data
 
 import androidx.room.withTransaction
-import com.tilaka.apps.custom.caching.roomdb.api.RestaurantApi
-import com.tilaka.apps.custom.caching.roomdb.utils.networkBoundResource
+import com.tilaka.apps.caching.roomdb.api.RestaurantApi
+import com.tilaka.apps.caching.roomdb.utils.networkBoundResource
 import kotlinx.coroutines.delay
 import javax.inject.Inject
 

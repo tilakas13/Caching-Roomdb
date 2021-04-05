@@ -1,4 +1,4 @@
-package com.tilaka.apps.custom.caching.roomdb
+package com.tilaka.apps.caching.roomdb
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

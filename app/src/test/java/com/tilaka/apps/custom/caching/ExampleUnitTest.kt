@@ -1,4 +1,4 @@
-package com.tilaka.apps.custom.caching.roomdb
+package com.tilaka.apps.custom.caching
 
 import org.junit.Test
 

@@ -11,7 +11,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.tilaka.apps.custom.caching.roomdb"
+        applicationId "com.tilaka.apps.caching.roomdb"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1

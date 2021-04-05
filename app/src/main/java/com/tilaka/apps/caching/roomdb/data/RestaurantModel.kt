@@ -1,4 +1,4 @@
-package com.tilaka.apps.custom.caching.roomdb.data
+package com.tilaka.apps.caching.roomdb.data
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

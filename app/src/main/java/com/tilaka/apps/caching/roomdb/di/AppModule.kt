@@ -1,9 +1,9 @@
-package com.tilaka.apps.custom.caching.roomdb.di
+package com.tilaka.apps.caching.roomdb.di
 
 import android.app.Application
 import androidx.room.Room
-import com.tilaka.apps.custom.caching.roomdb.data.RestaurantDatabase
-import com.tilaka.apps.custom.caching.roomdb.api.RestaurantApi
+import com.tilaka.apps.caching.roomdb.data.RestaurantDatabase
+import com.tilaka.apps.caching.roomdb.api.RestaurantApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
