@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_card_view">10dp</dimen>
+    <dimen name="cardCornerRadius">5dp</dimen>
+    <dimen name="height_image_list">320dp</dimen>
+</resources>
